@@ -1,4 +1,4 @@
-Versión: 0.0.0
-Clasificación: Alpha
-Última actualización: 10-11-2020
-Stats¿us: En desarrollo
+VersiÃ³n: 0.0.0
+ClasificaciÃ³n: Alpha
+Ãšltima actualizaciÃ³n: 10-11-2020
+Status: En desarrollo
