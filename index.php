@@ -19,7 +19,10 @@
 		</a>
 		<ul class="navbar-nav">
 			<li class="nav-item">
-				<a class="nav-link" href="#">Cómputo y Servicios "JOMOTEC"</a>
+				<a class="nav-link" href="#"><strong>Cómputo y Servicios "JOMOTEC"</strong></a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="/rectec" target="_blank">Iniciar Sesión</a>
 			</li>
 		</ul>
 	</nav>
