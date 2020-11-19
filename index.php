@@ -87,15 +87,16 @@
 							<div class="container">
 								<img src="assets/img/fb.png" id="fb" alt="Facebook"><a href="https://fb.com/jomotec.cuernavaca" style="margin: 10px;" target="_blank">Jomotec Cómputo y Servicios</a><br><br>
 
-								<img src="assets/img/wa.png" id="wa" alt="WhatsApp"><a href="https://api.whatsapp.com/send?phone=527771689089&text=Contacto%20a%20través%20de%20la%20web%20de%20JOMOTEC" target="
-								_blank">777-168-90-89</a><br>
 								<a href="https://api.whatsapp.com/send?phone=527775990128&text=Contacto%20a%20través%20de%20la%20web%20de%20JOMOTEC
 								" style="margin: 10px;" target="_blank">777-599-01-28</a>
+
+								<img src="assets/img/wa.png" id="wa" alt="WhatsApp"><a href="https://api.whatsapp.com/send?phone=527771689089&text=Contacto%20a%20través%20de%20la%20web%20de%20JOMOTEC" target="
+								_blank">777-168-90-89</a><br>
 							</div>
 
 							<div>
-								<img src="assets/img/llamadas.png" id="llamada" alt="llamada" style="margin: 10px;"><a href="tel:527771689089">777-168-90-89</a><br>
-								<a href="tel:527775990128" style="margin: 10px;">777-599-01-28</a>
+								<img src="assets/img/llamadas.png" id="llamada" alt="llamada" style="margin: 10px;"><a href="tel:527775990128" style="margin: 10px;">777-599-01-28</a>
+								<a href="tel:527771689089">777-168-90-89</a><br>
 							</div>
 						</center>
 					</div>
