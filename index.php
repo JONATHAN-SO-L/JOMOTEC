@@ -43,7 +43,7 @@
 						<center>
 							Somos una <i>micro-empresa</i> originaria de Cuernavaca Morelos, contamos con <strong>técnicos profesionales</strong> en materia de <strong>Informática</strong> comprometidos completamente a <i>brindar el mejor servicio al cliente</i> y darle la mejor experiencia de servicio, eficiencia, honestidad y confiabilidad.
 						</center><br>
-						<p align="center"><img src="assets/img/muñeco.png" id="muñeco" alt="trabajador"></p>
+						<p align="center"><img src="assets/img/muneco.png" id="muñeco" alt="trabajador"></p>
 					</div>
 				</div>
 			</div>
@@ -85,20 +85,20 @@
 					<div class="card-body">
 						<center>
 							<div class="container">
-								<img src="assets/img/fb.png" id="fb" alt="Facebook"><a href="https://fb.com/jomotec.cuernavaca" style="margin: 10px;" target="_blank">Jomotec Cómputo y Servicios</a><br><br>
+								<img src="assets/img/fb.png" id="fb" alt="Facebook"><br>
+								<a href="https://fb.com/jomotec.cuernavaca" style="margin: 10px;" target="_blank">Jomotec Cómputo y Servicios</a><br><br>
 
-								<img src="assets/img/wa.png" id="wa" alt="WhatsApp">
-
+								<img src="assets/img/wa.png" id="wa" alt="WhatsApp"><br>
 								<a href="https://api.whatsapp.com/send?phone=527775990128&text=Contacto%20a%20través%20de%20la%20web%20de%20JOMOTEC
-								" style="margin: 10px;" target="_blank">777-599-01-28</a>
-
+								" style="margin: 10px;" target="_blank">777-599-01-28</a><br>
 								<a href="https://api.whatsapp.com/send?phone=527771689089&text=Contacto%20a%20través%20de%20la%20web%20de%20JOMOTEC" target="
-								_blank">777-168-90-89</a><br>
+								_blank">777-168-90-89</a><br><br>
 							</div>
 
 							<div>
-								<img src="assets/img/llamadas.png" id="llamada" alt="llamada" style="margin: 10px;"><a href="tel:527775990128" style="margin: 10px;">777-599-01-28</a><br>
-								<a href="tel:527771689089">777-168-90-89</a>
+								<img src="assets/img/llamadas.png" id="llamada" alt="Llamada" style="margin: 10px;"><br>
+								<a href="tel:527775990128" style="margin: 10px;">777-599-01-28</a><br>
+								<a href="tel:527771689089">777-168-90-89<br>
 							</div>
 						</center>
 					</div>
@@ -120,7 +120,7 @@
 					<br>
 					<div id="form_correo" class="container">
 						<div class="container">
-							<form class="form-inline"><img id="correo-index" src="assets/img/correo.png" style="margin-top: 5px" ><h2 class="form-title" style="margin: 10px">CORREO ELECTRÓNICO</h2></form>
+							<form class="form-inline"><img id="correo-index" src="assets/img/correo.png" style="margin-top: 5px" ><h2 class="form-title" style="margin: 10px">CALIFÍCANOS</h2></form>
 							<form method="POST" action="sets/send.php">
 								<div>
 									<br>
@@ -134,10 +134,10 @@
 									</div>
 									<div class="form-group">
 										<label><strong>MENSAJE :</strong></label>
-										<textarea required="#" class="form-control" rows="3" id="mensaje" name="mensaje" placeholder="Redacta tu mensaje aquí"></textarea>
+										<textarea required="#" class="form-control" rows="3" id="mensaje" name="mensaje" placeholder="Cuéntanos, ¿Qué te pareció el servicio brindado?"></textarea>
 									</div>
 									<div class="form-group" align="center">
-										<input type="submit" class="btn btn-primary" id="enviar" name="enviar" value="Enviar Correo">
+										<input type="submit" class="btn btn-primary" id="enviar" name="enviar" value="Enviar">
 									</div><br>
 								</div>
 							</form>
@@ -152,7 +152,7 @@
 <footer>
 	<div class="container" align="center">
 		<br><h4>¿DÓNDE NOS UBICAMOS?</h4><br>
-		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15098.171568427424!2d-99.2447716!3d18.9073494!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd9f97b9c3e24e2b0!2sMercado%20Municipal%20Dr.%20Lauro%20Ortega%20Martinez!5e0!3m2!1ses-419!2smx!4v1604898014434!5m2!1ses-419!2smx" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15097.735016173307!2d-99.2486999!3d18.9121855!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1ea020183f536b2f!2sJOMOTEC%20C%C3%B3mputo%20y%20Servicios!5e0!3m2!1ses-419!2smx!4v1611370099154!5m2!1ses-419!2smx" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 	</div>
 	<br>
 	<div class="container" align="center">

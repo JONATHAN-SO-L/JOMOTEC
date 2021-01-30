@@ -39,10 +39,10 @@
 	</div><br><br>
 
 	<footer>
-		<div class="container" align="center">
+		<!--<div class="container" align="center">
 			<br><h4>¿DÓNDE NOS UBICAMOS?</h4><br>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15098.171568427424!2d-99.2447716!3d18.9073494!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd9f97b9c3e24e2b0!2sMercado%20Municipal%20Dr.%20Lauro%20Ortega%20Martinez!5e0!3m2!1ses-419!2smx!4v1604898014434!5m2!1ses-419!2smx" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-		</div>
+		</div>-->
 		<br>
 		<div class="container" align="center">
 			<p id="foot">All rights reserved. Copyrights by JOMOTEC ©</p>
